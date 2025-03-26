@@ -310,7 +310,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.State = MetroSuite.MetroForm.FormState.Normal;
             this.Style = MetroSuite.Design.Style.Dark;
-            this.Text = "RawAudioRecorder | Made by https://github.com/GabryB03/";
+            this.Text = "RawAudioRecorder | Made by https://github.com/ZygoteCode/";
             this.ResumeLayout(false);
             this.PerformLayout();
 
