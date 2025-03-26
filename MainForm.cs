@@ -151,7 +151,7 @@ public partial class MainForm : MetroForm
 
     private void guna2Button6_Click(object sender, EventArgs e)
     {
-        Process.Start("https://github.com/GabryB03/RawAudioRecorder/");
+        Process.Start("https://github.com/ZygoteCode/RawAudioRecorder/");
     }
 
     private void guna2Button3_Click(object sender, EventArgs e)
